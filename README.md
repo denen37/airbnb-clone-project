@@ -108,3 +108,8 @@
 - **Data Encryption**: Sensitive data such as passwords and payment information will be encrypted in transit (via HTTPS) and at rest. This is essential to protect user data and financial details.
 
 - **Input Validation & Sanitization**: All inputs will be validated and sanitized to prevent common attacks like SQL injection and cross-site scripting (XSS). This protects the integrity and security of the application.
+
+## CI/CD Pipeline
+CI/CD (Continuous Integration and Continuous Deployment) pipelines automate the building, testing, and deployment of code, ensuring faster and more reliable releases. They help catch bugs early, reduce manual deployment errors, and maintain consistent code quality.
+
+For this project, tools like GitHub Actions can automate workflows for running tests and deploying code. Docker can containerize the application for consistent environments, while services like Heroku, Vercel, or AWS can be used for automated deployments.
