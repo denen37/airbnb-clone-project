@@ -1,4 +1,32 @@
-# Overview of AirBnB Clone
+# Frontend
+## Overview of AirBnB Clone Frontend
+The frontend for the Airbnb Clone project is designed to provide a user-friendly and visually appealing interface for users to interact with the Airbnb Clone. This frontend will support various features such as user registration and login, property listing and searching, booking and payment processing, and user profile management.
+
+## Objective
+The primary objective of the Airbnb Clone frontend is to provide a seamless and intuitive experience for users to find, book, and manage their stays on the platform. The frontend will be built using modern web technologies such as React, Redux, and Material-UI, and will be optimized for performance and scalability.
+
+## Features
+The frontend will include the following features:
+- User registration and login
+- Property listing and searching
+- Booking and payment processing
+- User profile management
+- Responsive design for various devices and screen sizes
+
+## Technologies
+The frontend will be built using the following technologies:
+- React: A JavaScript library for building user interfaces
+- Redux: A predictable state container for JavaScript apps
+- Material-UI: A popular React UI framework
+- Axios: A promise-based HTTP client for making API requests
+- React Router: A routing library for React apps
+- React Bootstrap: A React UI library for Bootstrap
+- React Hooks: A set of functions that let you use state and other React features without writing a class
+- React Query: A library for fetching, caching, and updating data in React apps
+- React Testing Library: A library for testing React components
+
+# Backend
+## Overview of AirBnB Clone Backend
 ## Objective
    The backend for the Airbnb Clone project is designed to provide a robust and scalable foundation for managing user interactions, property listings, bookings, and payments. This backend will support various functionalities required to mimic the core features of Airbnb, ensuring a smooth experience for users and hosts.
 ## Project goals
