@@ -95,3 +95,16 @@
 - **Review System**: Guests and hosts can leave reviews after a stay, rating aspects like cleanliness and accuracy. Reviews are moderated and displayed after submission by both parties.
 
 - **Data Optimization**: Improves app speed and performance using caching, data compression, and database indexing. Helps handle large-scale traffic efficiently and reduces load times.
+
+## API Security
+
+
+- **Authentication**: All users must log in to access protected resources using secure authentication methods like JWT (JSON Web Tokens). This prevents unauthorized access and ensures user sessions are valid.
+
+- **Authorization**: Role-based access control (RBAC) ensures that only users with proper roles (e.g., host, guest, admin) can perform specific actions. This helps enforce business rules and protects critical operations.
+
+- **Rate Limiting**: Rate limiting will be applied to API endpoints to prevent abuse and protect against brute-force attacks. It helps maintain service availability and reduces the risk of denial-of-service attacks.
+
+- **Data Encryption**: Sensitive data such as passwords and payment information will be encrypted in transit (via HTTPS) and at rest. This is essential to protect user data and financial details.
+
+- **Input Validation & Sanitization**: All inputs will be validated and sanitized to prevent common attacks like SQL injection and cross-site scripting (XSS). This protects the integrity and security of the application.
