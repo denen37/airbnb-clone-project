@@ -63,4 +63,22 @@
 - **Redis**: Used for caching and session management.
 - **Docker**: Containerization tool for consistent development and deployment environments.
 - **CI/CD Pipelines**: Automated pipelines for testing and deploying code changes.
+
+## Database Design
+- ### Users
+    - **Fields**: email, password, first_name, last_name, 
+    - **relationships**: can have many bookings, can have many reviews, can have many properties, can have many payments
+- ### Properties
+    - **Fields**: name, description, address, price_per_night, max_guests, 
+    - **relationships**: can have many bookings, can have many reviews, can have many payments
+- ### Bookings
+    - **Fields**: start_date, end_date, total_price, 
+    - **relationships**: belongs to a property, belongs to a user
+- ### Reviews
+    - **Fields**: rating, comment,
+    - **relationships**: belongs to a property, belongs to a user
+
+- ### Payments
+    - **Fields**: amount, payment_method, status,
+    - **relationships**: belongs to a booking, belongs to a user
     
