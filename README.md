@@ -81,4 +81,17 @@
 - ### Payments
     - **Fields**: amount, payment_method, status,
     - **relationships**: belongs to a booking, belongs to a user
-    
+
+## Feature Breakdown
+
+- **User Management**: Handles user registration, login, and secure authentication. Users can manage profiles, upload pictures, and update preferences. Roles are defined for guests and hosts with different permissions.
+
+- **Property Management**: Hosts can create, update, and manage property listings with images, descriptions, pricing, and availability. Listings are searchable and include detailed pages with reviews and host info.
+
+- **Booking System**: Guests can book available properties, view booking details, and cancel if needed. The system checks availability in real-time and updates the booking calendar accordingly.
+
+- **Payment Processing**: Integrates with payment gateways to handle transactions securely. Tracks payment status, processes refunds, and allows hosts to manage payout settings.
+
+- **Review System**: Guests and hosts can leave reviews after a stay, rating aspects like cleanliness and accuracy. Reviews are moderated and displayed after submission by both parties.
+
+- **Data Optimization**: Improves app speed and performance using caching, data compression, and database indexing. Helps handle large-scale traffic efficiently and reduces load times.
