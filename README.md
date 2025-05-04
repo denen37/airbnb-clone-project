@@ -25,6 +25,14 @@ The frontend will be built using the following technologies:
 - React Query: A library for fetching, caching, and updating data in React apps
 - React Testing Library: A library for testing React components
 
+## UI/UX Design Planning
+
+| view | description |
+| --- | --- |
+| Property Listing View | This is the main interface of the AirBnB clone. It shows a clean and modern layout with various property listings displayed, each with a title, price, and a brief description. The design focuses on user-friendly navigation and visual appeal. |
+| Listing Detailed View | This page illustrates a detailed view of a specific property listing within the AirBnB clone. It highlights key features such as the property’s name, location, price, and additional details like amenities. The interface emphasizes clarity and ease of use for potential renters. |
+| Simple Checkout View | This page showcases the booking or reservation process for the selected property in the AirBnB clone. It may include options for selecting dates, the number of guests, and finalizing the booking. The design is streamlined to ensure a smooth user experience. |
+
 # Backend
 ## Overview of AirBnB Clone Backend
 ## Objective
