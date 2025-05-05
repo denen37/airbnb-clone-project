@@ -33,6 +33,62 @@ The frontend will be built using the following technologies:
 | Listing Detailed View | This page illustrates a detailed view of a specific property listing within the AirBnB clone. It highlights key features such as the property’s name, location, price, and additional details like amenities. The interface emphasizes clarity and ease of use for potential renters. |
 | Simple Checkout View | This page showcases the booking or reservation process for the selected property in the AirBnB clone. It may include options for selecting dates, the number of guests, and finalizing the booking. The design is streamlined to ensure a smooth user experience. |
 
+### Importance of User-friendly design in a booking system
+   User-friendly design is crucial in a booking system like the AirBnB clone because it directly impacts the overall user experience and satisfaction. A well-designed interface can make the process of finding, booking, and managing properties more enjoyable and efficient for users. It can also help to reduce friction and increase conversions, leading to higher revenue for the platform.
+
+### Color Styles
+- **Primary Color**: `#34967c` – Used for main actions and highlights
+
+- **Secondary Color**: `#000000`, `#FFA800`– Used for headings and emphasis
+
+- **Accent Color**: `#36B37E` – Used for success messages and accents
+
+- **Error Color**: `#FF5630` – Used for error messages and alerts
+
+- **Background Color**: `#F4F5F7` – General background color
+
+- **Text Color**:`#161117`– Primary text color
+
+- **Muted Text Color**: `#929292` – Used for secondary text
+
+### Typography
+- Font Family: Quicksand
+
+- Font Weights:
+
+    - Light – 300
+
+    - Regular – 400
+
+    - Medium – 500
+
+    - Bold – 700
+
+- Font Sizes:
+
+    - Heading 1: 26px
+
+    - Heading 2: 22px
+
+    - Heading 3: 17px
+
+    - Body Text: 16px
+
+    - Caption/Small Text: 11px
+
+### Importance of Identifying Design Properties in a Mockup
+Identifying and documenting design properties (like colors and typography) from a mockup is essential because:
+
+- **Ensures Consistency**: It maintains a consistent look and feel across all pages and components.
+
+- **Speeds Up Development**: Developers can quickly apply styles without guessing or repeatedly referencing the mockup.
+
+- **Improves Collaboration**: Designers and developers can communicate more effectively when visual properties are clearly defined.
+
+- **Enhances Maintainability**: Changes in design can be applied systematically if style variables are centrally managed.
+
+- **Strengthens User Experience**: A visually coherent and accessible interface makes the application more intuitive and pleasant to use.
+
 # Backend
 ## Overview of AirBnB Clone Backend
 ## Objective
