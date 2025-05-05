@@ -89,6 +89,94 @@ Identifying and documenting design properties (like colors and typography) from 
 
 - **Strengthens User Experience**: A visually coherent and accessible interface makes the application more intuitive and pleasant to use.
 
+## Project Roles and Responsibilities
+1. ### Project Manager (PM)
+- #### Responsibilities:
+
+    - Define and manage the project timeline, scope, and budget.
+
+    - Facilitate communication between team members and stakeholders.
+
+    - Monitor project risks and resolve issues as they arise.
+
+- **Contribution**: Ensures the project stays on track, on time, and within budget, while maintaining team alignment and stakeholder satisfaction.
+
+2. ### Frontend Developers
+- #### Responsibilities:
+    - Build responsive and interactive user interfaces based on mockups and design systems.
+
+    - Implement UI logic and integrate frontend with backend APIs.
+
+    - Ensure accessibility, performance, and cross-browser compatibility.
+
+- **Contribution**: Deliver a seamless and user-friendly experience to end-users.
+
+3. ### Backend Developers
+- #### Responsibilities:
+    - Develop and maintain server-side logic, databases, and APIs.
+
+    - Ensure data security, scalability, and performance of the application.
+
+    - Integrate third-party services and manage authentication/authorization.
+
+- **Contribution**: Power the core business logic and data flow behind the UI.
+
+4. ### Designers (UI/UX)
+- #### Responsibilities:
+
+    - Create wireframes, mockups, and user interface components.
+
+    - Conduct user research and usability testing.
+
+    - Ensure design consistency and brand alignment across all screens.
+
+- **Contribution**: Shape the look, feel, and usability of the product, ensuring it meets user needs.
+
+5. ### QA/Testers
+- #### Responsibilities:
+
+    - Write and execute test cases (manual and automated).
+
+    - Report bugs and verify bug fixes.
+
+    - Ensure the product meets quality standards before release.
+
+- **Contribution**: Safeguard the reliability and functionality of the system, reducing user-facing errors.
+
+6. ### DevOps Engineers
+- #### Responsibilities:
+
+    - Set up and maintain CI/CD pipelines, servers, and cloud infrastructure.
+
+    - Automate deployment and monitoring processes.
+
+    - Ensure high availability, security, and performance in production.
+
+- **Contribution**: Enable smooth deployment and operation of the application in various environments.
+
+7. ### Product Owner
+- #### Responsibilities:
+
+    - Define and prioritize the product backlog.
+
+    - Gather requirements from stakeholders and users.
+
+    - Accept completed features that meet acceptance criteria.
+
+- **Contribution**: Acts as the voice of the customer, ensuring the team builds the right product.
+
+8. ### Scrum Master
+- #### Responsibilities:
+
+    - Facilitate Agile ceremonies (sprint planning, stand-ups, retrospectives).
+
+    - Remove blockers and support team productivity.
+
+    - Foster continuous improvement and Agile best practices.
+
+- **Contribution**: Supports team cohesion and efficiency by promoting an effective and collaborative Agile process.
+
+
 # Backend
 ## Overview of AirBnB Clone Backend
 ## Objective
